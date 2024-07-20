@@ -1,0 +1,2 @@
+# ZavodWalletBot
+ZavodWalletBot App AutoClicker
